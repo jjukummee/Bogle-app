@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 150" width="160" height="150">
+  <path d="M36 88q0-68 44-68t44 68q0 50-44 50T36 88Z" fill="#6a79be"/>
+  <g id="bogle-eyes"><circle cx="66" cy="65" r="5" fill="#363652"/><circle cx="94" cy="65" r="5" fill="#363652"/></g>
+  <path id="bogle-mouth" d="M71 82h18q-2 14-9 14t-9-14Z" fill="#66517b"/>
+  <path id="bogle-arm-right" d="M119 86q24-4 26 20q-5 14-24 4Z" fill="#5667aa"/>
+  <path id="bogle-arm-left" d="M41 86q-24-4-26 20q5 14 24 4Z" fill="#5667aa"/>
+  <g id="bogle-cheeks"><ellipse cx="55" cy="83" rx="9" ry="5" fill="#f8aac0"/><ellipse cx="105" cy="83" rx="9" ry="5" fill="#f8aac0"/></g>
+</svg>
